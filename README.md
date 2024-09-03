@@ -27,7 +27,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
       <td>Good Morning, Mathematics!</td>
     </tr>
     <tr>
-      <td colspan="2">Join us for math problem solving. Post problems <a href="https://github.com/fractalate/phobosdream/issues">here</a>.</td>
+      <td colspan="2">Join us for math problem solving. Post problems <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <tr>
       <td rowspan="2">🎮</td>
