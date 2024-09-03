@@ -42,4 +42,4 @@ Got a programming or math question? [Open an issue](https://github.com/fractalat
 
 ## Topics
 
-I enjoy math problem solving and generally focus on problems from standardized tests like the [GRE subject tests](https://www.ets.org/gre/score-users/about/subject-tests.html) used in the United States and the [JEE Advanced exam](https://www.jeeadv.ac.in/).
+I enjoy math problem solving and generally focus on problems from standardized tests like the [GRE subject tests](https://www.ets.org/gre/score-users/about/subject-tests.html) administered in the United States and the [JEE Advanced exam](https://www.jeeadv.ac.in/) administered in India.
