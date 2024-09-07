@@ -23,21 +23,31 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
       <td rowspan="2">🔁</td>
       <td rowspan="2">Saturday or Sunday</td>
       <td rowspan="2">10:00 a.m. ET</td>
-      <td>Math</td>
+      <td rowspan="2">Math</td>
       <td>Good Morning, Mathematics!</td>
     </tr>
     <tr>
-      <td colspan="2">Join us for math problem solving. Post problems <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for math problem solving. Post problems <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+    </tr>
+    <tr>
+      <td rowspan="2">📖</td>
+      <td rowspan="2">Sunday, September 8, 2024</td>
+      <td rowspan="2">10:00 a.m. ET</td>
+      <td rowspan="2">Math</td>
+      <td>Good Morning, Mathematics!</td>
+    </tr>
+    <tr>
+      <td>Join us for math JEE Advanced problem solving from 2024 paper 1. Post problems <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <tr>
       <td rowspan="2">🎮</td>
       <td rowspan="2">Saturday, September 21, 2024</td>
       <td rowspan="2">10:00 a.m. ET</td>
-      <td>Game</td>
+      <td rowspan="2">Game</td>
       <td>Reflection of Madness</td>
     </tr>
     <tr>
-      <td colspan="2">Join us for a stream-based, multiplayer, dungeon adventure with a mathematical twist.</td>
+      <td>Join us for a stream-based, multiplayer, dungeon adventure with a mathematical twist.</td>
     </tr>
   </tbody>
 </table>
