@@ -37,7 +37,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
       <td>Good Morning, Mathematics!</td>
     </tr>
     <tr>
-      <td>Join us for math <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <tr>
       <td rowspan="2">📖</td>
@@ -47,7 +47,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
       <td>Good Morning, Mathematics!</td>
     </tr>
     <tr>
-      <td>Join us for math <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <tr>
       <td rowspan="2">🎮</td>
