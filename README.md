@@ -8,6 +8,16 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
 
 ## Stream Schedule
 
+<!--
+
+  Event Icons
+  
+  🔁 - Recurring
+  📖 - Study and Problem Solving
+  🎮 - Games
+
+-->
+
 <table>
   <thead>
     <tr>
@@ -19,6 +29,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     </tr>
   </thead>
   <tbody>
+    <!-- Recurring Event -->
     <tr>
       <td rowspan="2">🔁</td>
       <td rowspan="2">Saturday or Sunday</td>
@@ -29,16 +40,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     <tr>
       <td>Join us for math problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
-    <tr>
-      <td rowspan="2">📖</td>
-      <td rowspan="2">Sunday, September 8, 2024</td>
-      <td rowspan="2">10:00 a.m. ET</td>
-      <td rowspan="2">Math</td>
-      <td>Good Morning, Mathematics!</td>
-    </tr>
-    <tr>
-      <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
-    </tr>
+    <!-- Dated Event -->
     <tr>
       <td rowspan="2">📖</td>
       <td rowspan="2">Sunday, September 15, 2024</td>
@@ -49,6 +51,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     <tr>
       <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
+    <!-- Dated Event -->
     <tr>
       <td rowspan="2">🎮</td>
       <td rowspan="2">Saturday, September 21, 2024</td>
@@ -59,6 +62,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     <tr>
       <td>Join us for a stream-based, multiplayer, dungeon adventure with a mathematical twist.</td>
     </tr>
+    <!--End of Events -->
   </tbody>
 </table>
 
