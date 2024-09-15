@@ -41,6 +41,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
       <td>Join us for math problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <!-- Dated Event -->
+    <!--
     <tr>
       <td rowspan="2">📖</td>
       <td rowspan="2">Sunday, September 15, 2024</td>
@@ -51,6 +52,7 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     <tr>
       <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
+    -->
     <!-- Dated Event -->
     <tr>
       <td rowspan="2">🎮</td>
