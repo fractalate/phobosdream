@@ -40,6 +40,17 @@ Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdr
     <tr>
       <td>Join us for math problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
+    <!-- Recurring Event -->
+    <tr>
+      <td rowspan="2">🔁</td>
+      <td rowspan="2">Tuesday and Thursday</td>
+      <td rowspan="2">9:30 p.m. ET</td>
+      <td rowspan="2">Math</td>
+      <td>Infinite Series Class</td>
+    </tr>
+    <tr>
+      <td>Join me, a guest on <a href="https://www.twitch.tv/etothe2ipi">eToThe2iPi's</a> streams, for discussion about infinite series.</td>
+    </tr>
     <!-- Dated Event -->
     <!--
     <tr>
