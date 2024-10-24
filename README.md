@@ -75,7 +75,3 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
 ## Topics
 
 I enjoy problem solving and generally focus on math problems from standardized tests like the [GRE subject tests](https://www.ets.org/gre/score-users/about/subject-tests.html) administered in the United States and the [JEE Advanced exam](https://www.jeeadv.ac.in/) administered in India.
-
-## Viewer Rewards
-
-Check out the 
