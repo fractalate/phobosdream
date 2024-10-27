@@ -90,4 +90,4 @@ I enjoy problem solving and generally focus on math problems from standardized t
 * Computer Science
 * Data Analysis and Visualization
 
-Sometimes you'll find me streaming my favorie game, [Final Fantasy XIV](https://www.finalfantasyxiv.com/).
+Sometimes you'll find me streaming my favorite game, [Final Fantasy XIV](https://www.finalfantasyxiv.com/).
