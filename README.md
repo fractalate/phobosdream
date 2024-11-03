@@ -51,7 +51,7 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
       <td>Adventures in Text</td>
     </tr>
     <tr>
-      <td>Join us for software development.</td>
+      <td>Join us for software development. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
