@@ -99,7 +99,13 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
 I enjoy problem solving and generally focus on math problems from standardized tests like the [GRE subject tests](https://www.ets.org/gre/score-users/about/subject-tests.html) administered in the United States and the [JEE Advanced exam](https://www.jeeadv.ac.in/) administered in India. You'll also see me stream about some of my current areas of studies which include:
 
 * Computational Physics
+  - [Newman, Computational Physics](https://github.com/fractalate/study-newman-computational-physics)
+  - [Simulation of the Heat Equation](https://github.com/fractalate/simulation-heat-equation-1d)
 * Computer Science
+  - [General Computer Science Materials](https://github.com/fractalate/compsci)
+  - [CLRS Introduction to Algorithms](https://github.com/fractalate/study-clrs-introduction-to-algorithms)
 * Data Analysis and Visualization
+* Problem Sets
+  - [Several Problems](https://github.com/fractalate/several-problems)
 
 Sometimes you'll find me streaming my favorite game, [Final Fantasy XIV](https://www.finalfantasyxiv.com/).
