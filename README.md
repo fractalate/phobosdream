@@ -44,6 +44,17 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     </tr>
     <!-- Recurring Event -->
     <tr>
+      <td rowspan="2">🖥️</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Code</td>
+      <td>Adventures in Text</td>
+    </tr>
+    <tr>
+      <td>Join us for software development.</td>
+    </tr>
+    <!-- Recurring Event -->
+    <tr>
       <td rowspan="2">🎮</td>
       <td rowspan="2"></td>
       <td rowspan="2"></td>
@@ -52,17 +63,6 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     </tr>
     <tr>
       <td>Join us for <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a> MMO action.</td>
-    </tr>
-    <!-- Recurring Event -->
-    <tr>
-      <td rowspan="2">🖥️</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Code</td>
-      <td>Adventures in Text</td>
-    </tr>
-    <tr>
-      <td>Join us for development of a text-based adventure game.</td>
     </tr>
     <!-- Recurring Event -->
     <!--
