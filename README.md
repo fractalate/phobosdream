@@ -100,6 +100,7 @@ I enjoy problem solving and generally focus on math problems from standardized t
 
 * Computational Physics
   - [Newman, Computational Physics](https://github.com/fractalate/study-newman-computational-physics)
+  - [Simulation of an Accelerometer in Space](https://github.com/fractalate/simulation-accelerometer-in-space)
   - [Simulation of the Heat Equation](https://github.com/fractalate/simulation-heat-equation-1d)
 * Computer Science
   - [General Computer Science Materials](https://github.com/fractalate/compsci)
