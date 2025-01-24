@@ -63,7 +63,7 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
       <td>Data Science for Trees</td>
     </tr>
     <tr>
-      <td>Join us for a data centric study of trees! We've been focusing on the <a href="https://github.com/fractalate/data-sdot-trees">trees of Seattle, Washington</a>.</td>
+      <td>Join us for a data-centric study of trees! We've been focusing on the <a href="https://github.com/fractalate/data-sdot-trees">trees of Seattle, Washington</a>.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
