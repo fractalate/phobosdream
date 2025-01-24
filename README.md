@@ -1,10 +1,11 @@
 # Welcome to phobosDREAM's Stream Repository!
 
-Check out my streams on [Twitch](https://www.twitch.tv/phobosdream)! **Note:** I'll be around from time to time, but I'm busiest in the fall so I can't commit to scheduled streams.
+Check out my streams on [Twitch](https://www.twitch.tv/phobosdream)!
 
 Having trouble with some code you've been working on? Have a math question? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question) or [ask on Discord](https://discord.gg/wPFKP5K9MF) and I'd be happy to have a look!
 
-Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CGIVE%20ME%20A%20LINK%20TO%20YOUR%20CODE%20AND%20GIVE%20ME%20A%20BRIEF%20OVERVIEW%20OF%20WHAT%20I%27M%20LOOKING%20AT%20HERE%3E&labels=code%20roast)!
+Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CGIVE%20ME%20A%20LINK%20TO%20YOUR%20CODE%20AND%20GIVE%20ME%20A%20BRIEF%20OVERVIEW%20OF%20WHAT%20I%27M%20LOOKING%20AT%20HERE%3E&labels=code%20roast)! Looking for past code roasts? Check out the [roasts](https://github.com/fractalate/phobosdream/issues?q=is%3Aissue%20state%3Aclosed%20label%3Aroasted) list!
+
 
 Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
 
@@ -34,24 +35,35 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
+      <td rowspan="2">Tuesday and Thursday</td>
+      <td rowspan="2">8:30 p.m. ET</td>
+      <td rowspan="2">Math</td>
+      <td>Infinite Series</td>
+    </tr>
+    <tr>
+      <td>Join me with <a href="https://www.twitch.tv/etothe2ipi">eToThe2iPi</a> who is leading an analysis course on infinite series.</td>
+    </tr>
+    <!-- Recurring Event -->
+    <tr>
+      <td rowspan="2">📖</td>
       <td rowspan="2"><!-- Saturday or Sunday --></td>
       <td rowspan="2"><!-- 10:00 a.m. ET --></td>
       <td rowspan="2">Math</td>
       <td>Good Morning, Mathematics!</td>
     </tr>
     <tr>
-      <td>Join us for math problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">🖥️</td>
       <td rowspan="2"></td>
       <td rowspan="2"></td>
-      <td rowspan="2">Code</td>
-      <td>Adventures in Text</td>
+      <td rowspan="2">Data Science</td>
+      <td>Data Science for Trees</td>
     </tr>
     <tr>
-      <td>Join us for software development. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for a data centric study of trees! We've been focusing on the <a href="https://github.com/fractalate/data-sdot-trees">trees of Seattle, Washington</a>.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
