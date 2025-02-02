@@ -46,7 +46,18 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2"><!-- Saturday or Sunday --></td>
+      <td rowspan="2">Wednesday</td>
+      <td rowspan="2">7:00 p.m. ET</td>
+      <td rowspan="2">Math</td>
+      <td>Mathematics PM</td>
+    </tr>
+    <tr>
+      <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+    </tr>
+    <!-- Recurring Event -->
+    <tr>
+      <td rowspan="2">📖</td>
+      <td rowspan="2">Saturday or Sunday</td>
       <td rowspan="2"><!-- 10:00 a.m. ET --></td>
       <td rowspan="2">Math</td>
       <td>Good Morning, Mathematics!</td>
