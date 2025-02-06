@@ -35,18 +35,18 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Special Event -->
     <tr>
       <td rowspan="2">🖥️</td>
-      <td rowspan="2">Wednesday, Feb. 19</td>
+      <td rowspan="2">Wednesday<br />Feb. 19</td>
       <td rowspan="2">8:00 p.m. ET</td>
       <td rowspan="2">Code Roast</td>
-      <td>The code roast of <a href="https://github.com/fractalate/phobosdream/issues/2">SnoopFrog</a> and <a href="https://github.com/fractalate/phobosdream/issues/5">GroovyJeff</a>.</td>
+      <td>Special Event</td>
     </tr>
     <tr>
-      <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>The code roast of <a href="https://github.com/fractalate/phobosdream/issues/2">SnoopFrog</a> and <a href="https://github.com/fractalate/phobosdream/issues/5">GroovyJeff</a>.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2">Tuesday and Thursday</td>
+      <td rowspan="2">Tuesday<br />Thursday</td>
       <td rowspan="2">8:30 p.m. ET</td>
       <td rowspan="2">Math</td>
       <td>Infinite Series</td>
