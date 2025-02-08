@@ -2,7 +2,7 @@
 
 Check out my streams on [Twitch](https://www.twitch.tv/phobosdream)!
 
-Having trouble with some code you've been working on? Have a math question? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question) or [ask on Discord](https://discord.gg/wPFKP5K9MF) and I'd be happy to have a look!
+Having trouble with some code you've been working on? Have a math question? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question) or [ask on Discord](https://discord.gg/HwmhxBkQgE) and I'd be happy to have a look!
 
 Looking for a code roast? [Open an issue](https://github.com/fractalate/phobosdream/issues/new?body=%3CGIVE%20ME%20A%20LINK%20TO%20YOUR%20CODE%20AND%20GIVE%20ME%20A%20BRIEF%20OVERVIEW%20OF%20WHAT%20I%27M%20LOOKING%20AT%20HERE%3E&labels=code%20roast)! Looking for past code roasts? Check out the [roasts](https://github.com/fractalate/phobosdream/issues?q=is%3Aissue%20state%3Aclosed%20label%3Aroasted) list!
 
