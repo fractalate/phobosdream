@@ -32,33 +32,11 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     </tr>
   </thead>
   <tbody>
-    <!-- Special Event -->
-    <tr>
-      <td rowspan="2">🖥️</td>
-      <td rowspan="2">Wednesday<br />Feb. 19</td>
-      <td rowspan="2">8:00 p.m. ET</td>
-      <td rowspan="2">Code Roast</td>
-      <td>Special Event</td>
-    </tr>
-    <tr>
-      <td>The code roast of <a href="https://github.com/fractalate/phobosdream/issues/2">SnoopFrog</a> and <a href="https://github.com/fractalate/phobosdream/issues/5">GroovyJeff</a>.</td>
-    </tr>
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2">Tuesday<br />Thursday</td>
-      <td rowspan="2">8:30 p.m. ET</td>
-      <td rowspan="2">Math</td>
-      <td>Infinite Series</td>
-    </tr>
-    <tr>
-      <td>Join me with <a href="https://www.twitch.tv/etothe2ipi">eToThe2iPi</a> who is leading an analysis course on infinite series.</td>
-    </tr>
-    <!-- Recurring Event -->
-    <tr>
-      <td rowspan="2">📖</td>
-      <td rowspan="2">Wednesday</td>
-      <td rowspan="2">7:00 p.m. ET</td>
+      <td rowspan="2"><!-- Wednesday --></td>
+      <td rowspan="2"><!-- 7:00 p.m. ET --></td>
       <td rowspan="2">Math</td>
       <td>Mathematics PM</td>
     </tr>
@@ -68,7 +46,7 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2">Saturday or Sunday</td>
+      <td rowspan="2"><!-- Saturday or Sunday --></td>
       <td rowspan="2"><!-- 10:00 a.m. ET --></td>
       <td rowspan="2">Math</td>
       <td>Good Morning, Mathematics!</td>
