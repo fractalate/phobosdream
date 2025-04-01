@@ -35,13 +35,13 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2"><!-- Wednesday --></td>
-      <td rowspan="2"><!-- 7:00 p.m. ET --></td>
+      <td rowspan="2">Wednesday</td>
+      <td rowspan="2">7:00 p.m. ET</td>
       <td rowspan="2">Math</td>
-      <td>Mathematics PM</td>
+      <td>Kitten Studies</td>
     </tr>
     <tr>
-      <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
+      <td>Join us for a math study session.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
@@ -55,6 +55,7 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
       <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <!-- Recurring Event -->
+    <!--
     <tr>
       <td rowspan="2">🖥️</td>
       <td rowspan="2"></td>
@@ -65,6 +66,7 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <tr>
       <td>Join us for a data-centric study of trees! We've been focusing on the <a href="https://github.com/fractalate/data-sdot-trees">trees of Seattle, Washington</a>.</td>
     </tr>
+    -->
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">🎮</td>
