@@ -32,6 +32,17 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     </tr>
   </thead>
   <tbody>
+    <!-- Dated Event -->
+    <tr>
+      <td rowspan="2">🖥️</td>
+      <td rowspan="2">Wednesday, May 7, 2025</td>
+      <td rowspan="2">7:00 p.m. ET</td>
+      <td rowspan="2">Code Roast</td>
+      <td>The Code Roast of eToThe2iPi and viemmsakh</td>
+    </tr>
+    <tr>
+      <td>Join us for the code roast of <a href="https://github.com/fractalate/phobosdream/issues/6">eToThe2iPi</a> and <a href="https://github.com/fractalate/phobosdream/issues/7">viemmsakh</a>.</td>
+    </tr>
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
