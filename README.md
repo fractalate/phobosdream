@@ -120,7 +120,8 @@ I enjoy problem solving and generally focus on math problems from standardized t
   - [General Computer Science Materials](https://github.com/fractalate/compsci)
   - [CLRS Introduction to Algorithms](https://github.com/fractalate/study-clrs-introduction-to-algorithms)
 * Data Analysis and Visualization
-  - [Seattle Department of Transportation Trees](https://github.com/fractalate/data-sdot-trees)
+  - [Trees of Chicago](https://github.com/fractalate/data-trees-chicago)
+  - [Trees of Seattle](https://github.com/fractalate/data-trees-seattle)
 * Problem Sets
   - [Several Problems](https://github.com/fractalate/several-problems)
 
