@@ -41,7 +41,18 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
       <td>Kitten Studies</td>
     </tr>
     <tr>
-      <td>Join us for a math study session.</td>
+      <td>Join us for a study session.</td>
+    </tr>
+    <!-- Recurring Event -->
+    <tr>
+      <td rowspan="2">📖</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Science</td>
+      <td>Kittens in Trees</td>
+    </tr>
+    <tr>
+      <td>Join us for studies on dendrology and trees.</td>
     </tr>
     <!-- Recurring Event -->
     <tr>
