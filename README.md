@@ -66,19 +66,6 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
       <td>Join us for math studies and problem solving. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
     </tr>
     <!-- Recurring Event -->
-    <!--
-    <tr>
-      <td rowspan="2">🖥️</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Data Science</td>
-      <td>Data Science for Trees</td>
-    </tr>
-    <tr>
-      <td>Join us for a data-centric study of trees! We've been focusing on the <a href="https://github.com/fractalate/data-sdot-trees">trees of Seattle, Washington</a>.</td>
-    </tr>
-    -->
-    <!-- Recurring Event -->
     <tr>
       <td rowspan="2">🎮</td>
       <td rowspan="2"></td>
@@ -89,32 +76,6 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <tr>
       <td>Join us for <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a> MMO action.</td>
     </tr>
-    <!-- Recurring Event -->
-    <!--
-    <tr>
-      <td rowspan="2">📖</td>
-      <td rowspan="2">Tuesday and Thursday</td>
-      <td rowspan="2">9:30 p.m. ET</td>
-      <td rowspan="2">Math</td>
-      <td>Infinite Series Class</td>
-    </tr>
-    <tr>
-      <td>Join me, a guest on <a href="https://www.twitch.tv/etothe2ipi">eToThe2iPi's</a> streams, for discussion about infinite series.</td>
-    </tr>
-    -->
-    <!-- Dated Event -->
-    <!--
-    <tr>
-      <td rowspan="2">📖</td>
-      <td rowspan="2">Sunday, September 15, 2024</td>
-      <td rowspan="2">10:00 a.m. ET</td>
-      <td rowspan="2">Math</td>
-      <td>Good Morning, Mathematics!</td>
-    </tr>
-    <tr>
-      <td>Join us for <a href="https://www.jeeadv.ac.in/">JEE Advanced</a> problem solving from the 2024 exam. Post questions <a href="https://github.com/fractalate/phobosdream/issues/new?body=%3CYOUR%20QUESTION%20HERE%3E&labels=question">here</a>.</td>
-    </tr>
-    -->
     <!--End of Events -->
   </tbody>
 </table>
