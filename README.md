@@ -35,9 +35,9 @@ Looking for viewer rewards? Check out the [rewards](./rewards/README.md) list!
     <!-- Recurring Event -->
     <tr>
       <td rowspan="2">📖</td>
-      <td rowspan="2">Wednesday</td>
-      <td rowspan="2">7:00 p.m. ET</td>
-      <td rowspan="2">Math</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Math, AI, or Machine Learning</td>
       <td>Kitten Studies</td>
     </tr>
     <tr>
