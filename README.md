@@ -2,7 +2,7 @@
 
 I'm a mathematics and programming live streamer with a variety of focuses including problem solving, data analysis, and numeric simulations. You'll see me working through my studies in a variety of subjects as well as engaging with open-ended research and data visualization. Sometimes we have special events like code roasts where I give a comical and critical review of submitted projects.
 
-Check out my streams on [Twitch](https://www.twitch.tv/phobosdream) and my stream repository on [GitHub](https://github.com/fractalate/phobosdream).
+Check out my streams on [Twitch](https://www.twitch.tv/phobosdream)!
 
 Take a look at some of my work:
 
