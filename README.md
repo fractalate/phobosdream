@@ -11,6 +11,7 @@ Take a look at some of my work:
   - [Simulation of an Accelerometer in Space](https://github.com/fractalate/simulation-accelerometer-in-space)
   - [Simulation of Crystal Lattice Formation](https://github.com/fractalate/simulation-crystal-lattice-formation)
   - [Simulation of the Heat Equation](https://github.com/fractalate/simulation-heat-equation-1d)
+  - [Simulation of Orbital Mechanics and Multi-body Systems](https://github.com/fractalate/simulation-orbital-mechanics)
 * Data Analysis and Visualization
   - [Trees of Chicago](https://github.com/fractalate/data-trees-chicago)
   - [Trees of New York](https://github.com/fractalate/data-trees-new-york)
