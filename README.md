@@ -14,6 +14,7 @@ Take a look at some of my work:
   - [Simulation of Orbital Mechanics and Multi-body Systems](https://github.com/fractalate/simulation-orbital-mechanics)
 * Data Analysis and Visualization
   - [Trees of Chicago](https://github.com/fractalate/data-trees-chicago)
+  - [Trees of Denver](https://github.com/fractalate/data-trees-denver)
   - [Trees of New York](https://github.com/fractalate/data-trees-new-york)
   - [Trees of Pittsburgh](https://github.com/fractalate/data-trees-pittsburgh)
   - [Trees of Seattle](https://github.com/fractalate/data-trees-seattle)
